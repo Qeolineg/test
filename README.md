@@ -1,5 +1,5 @@
 # Hello, world!
 
-I study in Netiol
+I study in Netology
 
 24.10.2026
