@@ -1,3 +1,5 @@
 # Hello, world!
 
-I study in Netiology
+I study in Netiol
+
+24.10.2026
